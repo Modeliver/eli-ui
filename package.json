@@ -22,7 +22,8 @@
     "prettier:fix": "npm run prettier -- --write",
     "lint:fix": "npm run lint -- --fix",
     "cleanup": "rimraf dist",
-    "build:watch": "tsc --watch"
+    "build:watch": "tsc --watch",
+    "tag": "git tag"
   },
   "keywords": [
     "react",
