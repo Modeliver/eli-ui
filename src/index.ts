@@ -2,7 +2,7 @@ export { Alert } from "./alerts/Alert";
 export { Avatar } from "./avatars/Avatar";
 export { Badge } from "./badges/Badge";
 export { Button } from "./buttons/Button";
-export { Card } from "./cards/Card";
+export { Card, CardBody } from "./cards/Card";
 export { Dropdown, DropdownItem } from "./dropdowns/Dropdown";
 export { HelperText } from "./helpertexts/HelperText";
 export { Input } from "./inputs/Input";
