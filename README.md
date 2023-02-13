@@ -1,3 +1,3 @@
 ## Modeliver Design components
 
-https://windmill-dashboard-react.vercel.app/app/dashboard
+The component extends https://windmillui.com/react-ui which uses Tailwindcss
